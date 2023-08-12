@@ -23,3 +23,5 @@ provides Dashboard on how much food is going uneaten in the United States.
  This will ensure that end-users see only the navigation options you provide.
 
 ## DashBorad 
+![pic](https://github.com/Mhmod-Mhmd/PowerBI_waste-free-plante-Dashboard/assets/113009688/d59fe8e6-cbc5-4c03-afd8-b635df53e9a0)
+
