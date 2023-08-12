@@ -1,5 +1,5 @@
-# PowerBI_waste-free-plante-Dashboard
-provides Dashboard on how much food is going uneaten in the United States.
+# PowerBI_waste-Food in USA -Dashboard
+provides Dashboard on how much food is going uneaten in the United States, problems and solutions
 
 
 ## Data Set :
