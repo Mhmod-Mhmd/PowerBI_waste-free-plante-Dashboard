@@ -23,5 +23,20 @@ provides Dashboard on how much food is going uneaten in the United States.
  This will ensure that end-users see only the navigation options you provide.
 
 ## DashBorad 
-![pic](https://github.com/Mhmod-Mhmd/PowerBI_waste-free-plante-Dashboard/assets/113009688/d59fe8e6-cbc5-4c03-afd8-b635df53e9a0)
+Main Page :
+![main](https://github.com/Mhmod-Mhmd/PowerBI_waste-free-plante-Dashboard/assets/113009688/7a265049-67b4-4cba-9fe4-4bd3f8361a33)
+Problems :
+![the problem](https://github.com/Mhmod-Mhmd/PowerBI_waste-free-plante-Dashboard/assets/113009688/43512457-64bf-4e26-8b76-f30ad1a22ee0)
+Causes :
+![Causes](https://github.com/Mhmod-Mhmd/PowerBI_waste-free-plante-Dashboard/assets/113009688/2c63e7e2-b74d-40c0-9704-47a311cdcf3d)
+Data :
+![Data](https://github.com/Mhmod-Mhmd/PowerBI_waste-free-plante-Dashboard/assets/113009688/a98ad959-97bf-4bc3-b2f8-2572ffea26ba)
+Solutions :
+![Solution](https://github.com/Mhmod-Mhmd/PowerBI_waste-free-plante-Dashboard/assets/113009688/02f84a96-dc5d-4c60-94a0-2704554557ee)
+tooltip :
+![Tooltip](https://github.com/Mhmod-Mhmd/PowerBI_waste-free-plante-Dashboard/assets/113009688/6c53d785-5269-4b87-ae9a-a7dbfdd8dca2)
+
+
+
+
 
